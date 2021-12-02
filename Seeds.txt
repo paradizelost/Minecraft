@@ -5,3 +5,12 @@ Location : Feature
 -99594 165 100370 : awesome cave system
 -99732 78 100556 : broken nether portal. goes to place in nether with fortress
 -98940 88 101773 : broken nether protal, goes to another fortress
+
+Seed: 11817
+Features: 
+Location : Feature
+spawn : 2 villages (different types) very near, bamboo jungle nearby
+
+Seed: 20171108
+Features: 
+Location : Feature
