@@ -1,0 +1,7 @@
+Seed: -1129353125
+Features: 
+Location : Feature
+-99926 165 100100 : 3 villiages in view range, view to awesome cave system
+-99594 165 100370 : awesome cave system
+-99732 78 100556 : broken nether portal. goes to place in nether with fortress
+-98940 88 101773 : broken nether protal, goes to another fortress
